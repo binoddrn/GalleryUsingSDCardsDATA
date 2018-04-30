@@ -1,6 +1,8 @@
 # GalleryUsingSDCardsDATA
 This project Basically fetches the data from  both internal memory and external memory.
 Both images and videos  are shown in recyclerview.
+it also uses viewpager so that we can swap images.
+in single image it allows to zoom an image.
 
 
 ![1 1](https://user-images.githubusercontent.com/31370016/39418326-787685c2-4c79-11e8-8a9a-1cd68bccefe1.png)
